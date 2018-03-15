@@ -1,6 +1,6 @@
 # GamaVision
 
-Web API for a collaboration apps which runs on Android.
+Web API for GamaVision, a collaboration apps which runs on Android.
 
 # API
 
