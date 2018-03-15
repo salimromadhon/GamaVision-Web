@@ -1,0 +1,6 @@
+.DS_Store
+vendor
+.idea
+/application/migrations
+/application/controllers/Dump.php
+/application/controllers/Migrate.php
